@@ -1,0 +1,1 @@
+Criar uma RNN para processar o dataset Reuters do Keras com o intuito de classificar cada notícia em um de 46 tópicos diferentes (economia, esportes, política, etc.).
