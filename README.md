@@ -1,2 +1,4 @@
 # deep-learning
-Deep learning exercises and experiments
+Exercícios e experimentos de Deep-learning.
+
+[CNN](./CNN/readme.md)
