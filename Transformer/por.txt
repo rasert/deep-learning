@@ -1,0 +1,1000 @@
+Go.	Vá.
+Hi.	Oi.
+Run!	Corra!
+Fire!	Fogo!
+Help!	Socorro!
+Jump.	Pule.
+Stop!	Pare!
+Wait!	Espere!
+Go on.	Continue.
+Hello!	Olá!
+I see.	Eu entendo.
+I try.	Eu tento.
+I won.	Eu venci.
+I'm OK.	Estou bem.
+Listen.	Escute.
+No way!	De jeito nenhum!
+Really?	Sério?
+Thanks.	Obrigado.
+We try.	Nós tentamos.
+Why me?	Por que eu?
+I agree.	Eu concordo.
+Be calm.	Fique calmo.
+Be quiet.	Fique quieto.
+Come here.	Venha aqui.
+Come in.	Entre.
+Get out.	Saia.
+Good job.	Bom trabalho.
+Hold on.	Espere um momento.
+Hurry up.	Apresse-se.
+I doubt it.	Eu duvido.
+I'm busy.	Estou ocupado.
+I'm cold.	Estou com frio.
+I'm hot.	Estou com calor.
+I'm ready.	Estou pronto.
+I'm sorry.	Desculpe-me.
+I'm tired.	Estou cansado.
+Keep going.	Continue assim.
+Let's go.	Vamos.
+Never mind.	Deixa pra lá.
+Not yet.	Ainda não.
+Shut up.	Cale a boca.
+Sit down.	Sente-se.
+Slow down.	Vá devagar.
+Stay here.	Fique aqui.
+Take care.	Cuide-se.
+Try again.	Tente novamente.
+Wake up.	Acorde.
+Watch out.	Cuidado.
+Well done.	Bem feito.
+Who knows?	Quem sabe?
+I love you.	Eu te amo.
+I miss you.	Sinto sua falta.
+I need help.	Preciso de ajuda.
+I don't know.	Eu não sei.
+I'm hungry.	Estou com fome.
+I'm thirsty.	Estou com sede.
+I like it.	Eu gosto disso.
+I hate it.	Eu odeio isso.
+Call me later.	Me ligue mais tarde.
+See you soon.	Até logo.
+Good morning.	Bom dia.
+Good night.	Boa noite.
+Good afternoon.	Boa tarde.
+Nice to meet you.	Prazer em conhecê-lo.
+How are you?	Como você está?
+What's your name?	Qual é o seu nome?
+Where are you?	Onde você está?
+What time is it?	Que horas são?
+I don't understand.	Eu não entendo.
+Can you help me?	Você pode me ajudar?
+I'm lost.	Estou perdido.
+I'm sick.	Estou doente.
+I feel better.	Me sinto melhor.
+That's right.	Está certo.
+That's wrong.	Está errado.
+I believe you.	Eu acredito em você.
+I trust you.	Eu confio em você.
+Tell me more.	Conte-me mais.
+Show me.	Mostre-me.
+Teach me.	Me ensine.
+Let me try.	Deixe-me tentar.
+Give me that.	Me dê isso.
+Take this.	Pegue isso.
+Leave me alone.	Me deixe em paz.
+Come with me.	Venha comigo.
+Follow me.	Siga-me.
+Look at me.	Olhe para mim.
+Listen to me.	Me escute.
+Talk to me.	Fale comigo.
+Help me out.	Me ajude.
+I forgot.	Eu esqueci.
+I remember.	Eu me lembro.
+I think so.	Eu acho que sim.
+I hope so.	Espero que sim.
+Maybe later.	Talvez mais tarde.
+Not now.	Agora não.
+Just kidding.	Só brincando.
+Be careful.	Tenha cuidado.
+Be patient.	Seja paciente.
+Be honest.	Seja honesto.
+Be quiet please.	Fique quieto por favor.
+Don't worry.	Não se preocupe.
+Don't cry.	Não chore.
+Don't laugh.	Não ria.
+Don't run.	Não corra.
+Don't move.	Não se mexa.
+Don't touch.	Não toque.
+Don't forget.	Não esqueça.
+Don't be late.	Não se atrase.
+Don't be sad.	Não fique triste.
+I can't wait.	Mal posso esperar.
+I can swim.	Eu sei nadar.
+I can't swim.	Eu não sei nadar.
+I can help.	Eu posso ajudar.
+I can't help.	Eu não posso ajudar.
+I need water.	Preciso de água.
+I need food.	Preciso de comida.
+I need rest.	Preciso descansar.
+I want coffee.	Quero café.
+I want tea.	Quero chá.
+I like music.	Eu gosto de música.
+I like books.	Eu gosto de livros.
+I like movies.	Eu gosto de filmes.
+I play soccer.	Eu jogo futebol.
+I play guitar.	Eu toco violão.
+I study math.	Eu estudo matemática.
+I work here.	Eu trabalho aqui.
+I live here.	Eu moro aqui.
+I come daily.	Eu venho diariamente.
+I go home.	Eu vou para casa.
+I stay home.	Eu fico em casa.
+She is nice.	Ela é legal.
+He is tall.	Ele é alto.
+They are friends.	Eles são amigos.
+We are family.	Nós somos família.
+You are right.	Você está certo.
+You are wrong.	Você está errado.
+It is hot.	Está quente.
+It is cold.	Está frio.
+It is raining.	Está chovendo.
+It is sunny.	Está ensolarado.
+The sky is blue.	O céu está azul.
+The water is clean.	A água está limpa.
+The food is good.	A comida está boa.
+The book is new.	O livro é novo.
+The door is open.	A porta está aberta.
+The door is closed.	A porta está fechada.
+The car is fast.	O carro é rápido.
+The house is big.	A casa é grande.
+The room is small.	O quarto é pequeno.
+My phone is dead.	Meu telefone está descarregado.
+My bag is heavy.	Minha bolsa está pesada.
+Your shirt is nice.	Sua camisa é bonita.
+His idea is great.	A ideia dele é ótima.
+Her voice is sweet.	A voz dela é doce.
+This is easy.	Isso é fácil.
+This is hard.	Isso é difícil.
+This is mine.	Isso é meu.
+This is yours.	Isso é seu.
+That is correct.	Isso está correto.
+That is funny.	Isso é engraçado.
+That is sad.	Isso é triste.
+That is weird.	Isso é estranho.
+Everything is fine.	Está tudo bem.
+Nothing is wrong.	Nada está errado.
+Something is missing.	Algo está faltando.
+Someone is calling.	Alguém está ligando.
+Nobody knows.	Ninguém sabe.
+Everybody loves music.	Todo mundo ama música.
+Anybody can learn.	Qualquer um pode aprender.
+Where is the bathroom?	Onde fica o banheiro?
+Where is the station?	Onde fica a estação?
+Where is the hospital?	Onde fica o hospital?
+Where is the bank?	Onde fica o banco?
+When is lunch?	Quando é o almoço?
+When is dinner?	Quando é o jantar?
+When do we start?	Quando começamos?
+When do we leave?	Quando saímos?
+What is this?	O que é isso?
+What is that?	O que é aquilo?
+What do you want?	O que você quer?
+What do you need?	Do que você precisa?
+What do you think?	O que você acha?
+What did you say?	O que você disse?
+Who is he?	Quem é ele?
+Who is she?	Quem é ela?
+Who are they?	Quem são eles?
+Who told you?	Quem te contou?
+Why not?	Por que não?
+Why are you late?	Por que você está atrasado?
+Why did you come?	Por que você veio?
+How much is it?	Quanto custa?
+How old are you?	Quantos anos você tem?
+How do you know?	Como você sabe?
+How did it happen?	Como aconteceu?
+Which one do you prefer?	Qual você prefere?
+Which color do you like?	Qual cor você gosta?
+Can I come in?	Posso entrar?
+Can I sit here?	Posso sentar aqui?
+Can I ask something?	Posso perguntar algo?
+Can you wait?	Você pode esperar?
+Can you repeat that?	Você pode repetir isso?
+Can you speak slowly?	Você pode falar devagar?
+Could you help me?	Você poderia me ajudar?
+Would you like coffee?	Você gostaria de café?
+Would you like tea?	Você gostaria de chá?
+May I help you?	Posso ajudá-lo?
+Should I wait?	Devo esperar?
+Should I call?	Devo ligar?
+Must I go?	Devo ir?
+I will try.	Eu vou tentar.
+I will wait.	Eu vou esperar.
+I will call you.	Eu vou te ligar.
+I won't forget.	Eu não vou esquecer.
+I would love to.	Eu adoraria.
+I would like water.	Eu gostaria de água.
+He can swim.	Ele sabe nadar.
+She can dance.	Ela sabe dançar.
+They can help.	Eles podem ajudar.
+We should go.	Nós deveríamos ir.
+You must leave.	Você deve sair.
+It might rain.	Pode chover.
+It could work.	Pode funcionar.
+The sun is shining.	O sol está brilhando.
+The moon is beautiful.	A lua está linda.
+The stars are bright.	As estrelas estão brilhantes.
+The wind is strong.	O vento está forte.
+The weather is nice.	O tempo está bom.
+The street is busy.	A rua está movimentada.
+The park is quiet.	O parque está tranquilo.
+The beach is crowded.	A praia está lotada.
+The city is beautiful.	A cidade é linda.
+The mountains are high.	As montanhas são altas.
+My family is big.	Minha família é grande.
+My mother is kind.	Minha mãe é gentil.
+My father is strong.	Meu pai é forte.
+My sister is smart.	Minha irmã é inteligente.
+My brother is funny.	Meu irmão é engraçado.
+My friend is loyal.	Meu amigo é leal.
+My dog is cute.	Meu cachorro é fofo.
+My cat is lazy.	Meu gato é preguiçoso.
+Your eyes are pretty.	Seus olhos são bonitos.
+Your smile is nice.	Seu sorriso é bonito.
+I have a question.	Tenho uma pergunta.
+I have a problem.	Tenho um problema.
+I have an idea.	Tenho uma ideia.
+I have time.	Tenho tempo.
+I have money.	Tenho dinheiro.
+I don't have time.	Não tenho tempo.
+I don't have money.	Não tenho dinheiro.
+She has a car.	Ela tem um carro.
+He has a bike.	Ele tem uma bicicleta.
+They have a house.	Eles têm uma casa.
+We have a plan.	Nós temos um plano.
+Do you have water?	Você tem água?
+Do you have food?	Você tem comida?
+Does he have brothers?	Ele tem irmãos?
+Does she have sisters?	Ela tem irmãs?
+I am learning English.	Estou aprendendo inglês.
+I am studying Portuguese.	Estou estudando português.
+I am working hard.	Estou trabalhando duro.
+I am eating lunch.	Estou almoçando.
+I am drinking water.	Estou bebendo água.
+I am reading a book.	Estou lendo um livro.
+I am writing a letter.	Estou escrevendo uma carta.
+I am watching TV.	Estou assistindo TV.
+I am listening to music.	Estou ouvindo música.
+I am thinking about you.	Estou pensando em você.
+She is cooking dinner.	Ela está fazendo jantar.
+He is driving a car.	Ele está dirigindo um carro.
+They are playing soccer.	Eles estão jogando futebol.
+We are having fun.	Estamos nos divertindo.
+You are doing well.	Você está indo bem.
+I was tired yesterday.	Eu estava cansado ontem.
+I was happy then.	Eu estava feliz então.
+She was here before.	Ela estava aqui antes.
+He was my teacher.	Ele era meu professor.
+They were friends.	Eles eram amigos.
+We were students.	Nós éramos estudantes.
+It was beautiful.	Estava lindo.
+It was fun.	Foi divertido.
+It was difficult.	Foi difícil.
+I went to school.	Eu fui para a escola.
+I went home early.	Eu fui para casa cedo.
+I ate breakfast.	Eu tomei café da manhã.
+I drank coffee.	Eu bebi café.
+I saw a movie.	Eu vi um filme.
+I met a friend.	Eu encontrei um amigo.
+I bought a book.	Eu comprei um livro.
+I read the news.	Eu li as notícias.
+I wrote an email.	Eu escrevi um email.
+I called my mom.	Eu liguei para minha mãe.
+She came yesterday.	Ela veio ontem.
+He left early.	Ele saiu cedo.
+They arrived late.	Eles chegaram atrasados.
+We finished the work.	Nós terminamos o trabalho.
+You did great.	Você fez ótimo.
+I will go tomorrow.	Eu irei amanhã.
+I will call later.	Eu ligarei mais tarde.
+I will send an email.	Eu enviarei um email.
+I will buy food.	Eu comprarei comida.
+She will come soon.	Ela virá em breve.
+He will help us.	Ele nos ajudará.
+They will arrive tonight.	Eles chegarão hoje à noite.
+We will see.	Nós veremos.
+You will like it.	Você vai gostar.
+I have been busy.	Eu tenho estado ocupado.
+I have been sick.	Eu tenho estado doente.
+I have finished my work.	Eu terminei meu trabalho.
+I have seen that movie.	Eu já vi esse filme.
+She has been here before.	Ela já esteve aqui antes.
+He has lived here long.	Ele mora aqui há muito tempo.
+They have left already.	Eles já saíram.
+We have eaten already.	Nós já comemos.
+You have done well.	Você fez bem.
+I had finished before you came.	Eu tinha terminado antes de você chegar.
+She had left when I arrived.	Ela tinha saído quando eu cheguei.
+I can speak English.	Eu posso falar inglês.
+I can't speak Spanish.	Eu não posso falar espanhol.
+I could help you yesterday.	Eu poderia ter ajudado você ontem.
+I couldn't sleep last night.	Eu não consegui dormir ontem à noite.
+I may go tomorrow.	Eu talvez vá amanhã.
+I might be late.	Eu posso me atrasar.
+I must finish this today.	Eu devo terminar isso hoje.
+I have to go now.	Eu tenho que ir agora.
+I should study more.	Eu deveria estudar mais.
+I would go if I could.	Eu iria se pudesse.
+You should rest now.	Você deveria descansar agora.
+You must be careful.	Você deve ter cuidado.
+She might come later.	Ela pode vir mais tarde.
+He should call first.	Ele deveria ligar primeiro.
+They must be tired.	Eles devem estar cansados.
+We could try again.	Nós poderíamos tentar novamente.
+I like to read.	Eu gosto de ler.
+I love to dance.	Eu amo dançar.
+I want to learn.	Eu quero aprender.
+I need to sleep.	Eu preciso dormir.
+I have to work.	Eu tenho que trabalhar.
+I plan to travel.	Eu planejo viajar.
+I hope to win.	Eu espero ganhar.
+I decided to stay.	Eu decidi ficar.
+I forgot to call.	Eu esqueci de ligar.
+I promise to help.	Eu prometo ajudar.
+She likes to sing.	Ela gosta de cantar.
+He wants to eat.	Ele quer comer.
+They need to talk.	Eles precisam conversar.
+We love to travel.	Nós amamos viajar.
+You have to listen.	Você tem que ouvir.
+Reading is fun.	Ler é divertido.
+Learning is important.	Aprender é importante.
+Working is necessary.	Trabalhar é necessário.
+Sleeping is good.	Dormir é bom.
+Eating well is healthy.	Comer bem é saudável.
+Exercise is important.	Exercício é importante.
+I enjoy reading books.	Eu gosto de ler livros.
+I love watching movies.	Eu amo assistir filmes.
+I hate waiting.	Eu odeio esperar.
+I prefer walking.	Eu prefiro andar.
+She enjoys cooking.	Ela gosta de cozinhar.
+He loves playing soccer.	Ele ama jogar futebol.
+They like swimming.	Eles gostam de nadar.
+We enjoy traveling.	Nós gostamos de viajar.
+This book is interesting.	Este livro é interessante.
+That movie was boring.	Aquele filme foi chato.
+The food smells good.	A comida cheira bem.
+The coffee tastes bitter.	O café está amargo.
+The music sounds beautiful.	A música parece linda.
+Your idea sounds great.	Sua ideia parece ótima.
+I feel tired today.	Me sinto cansado hoje.
+I feel happy now.	Me sinto feliz agora.
+She looks beautiful.	Ela parece linda.
+He seems worried.	Ele parece preocupado.
+They appear confused.	Eles parecem confusos.
+It looks delicious.	Parece delicioso.
+It sounds interesting.	Parece interessante.
+The bigger the better.	Quanto maior melhor.
+The more the merrier.	Quanto mais melhor.
+I am as tall as him.	Eu sou tão alto quanto ele.
+She is taller than me.	Ela é mais alta que eu.
+He is the tallest.	Ele é o mais alto.
+This is better than that.	Isso é melhor que aquilo.
+This is the best.	Isso é o melhor.
+That was worse than before.	Isso foi pior que antes.
+That was the worst.	Isso foi o pior.
+I am older than you.	Eu sou mais velho que você.
+She is younger than him.	Ela é mais jovem que ele.
+This is more expensive.	Isso é mais caro.
+That is less important.	Isso é menos importante.
+This is the most beautiful.	Isso é o mais bonito.
+That is the least interesting.	Isso é o menos interessante.
+I run faster than you.	Eu corro mais rápido que você.
+She speaks more clearly.	Ela fala mais claramente.
+He works harder than everyone.	Ele trabalha mais duro que todos.
+I like apples and oranges.	Eu gosto de maçãs e laranjas.
+I want tea or coffee.	Eu quero chá ou café.
+I am tired but happy.	Estou cansado mas feliz.
+I want to go but can't.	Eu quero ir mas não posso.
+She is smart and kind.	Ela é inteligente e gentil.
+He is rich but unhappy.	Ele é rico mas infeliz.
+They are late yet excited.	Eles estão atrasados mas animados.
+I will go if you come.	Eu irei se você vier.
+I can't come because I'm busy.	Não posso vir porque estou ocupado.
+I stayed home since it rained.	Fiquei em casa já que choveu.
+I will call when I arrive.	Eu ligarei quando chegar.
+I waited until she came.	Eu esperei até ela chegar.
+I left before he arrived.	Eu saí antes dele chegar.
+I came after you left.	Eu vim depois que você saiu.
+I will wait while you shop.	Eu esperarei enquanto você compra.
+I work hard so I succeed.	Eu trabalho duro então eu sucedo.
+Although I'm tired I'll continue.	Embora eu esteja cansado vou continuar.
+I eat because I'm hungry.	Eu como porque estou com fome.
+I am happy.	Eu estou feliz.
+You are sad.	Você está triste.
+He is angry.	Ele está bravo.
+She is excited.	Ela está animada.
+We are nervous.	Nós estamos nervosos.
+They are surprised.	Eles estão surpresos.
+I feel great.	Me sinto ótimo.
+I feel terrible.	Me sinto péssimo.
+I am proud of you.	Estou orgulhoso de você.
+I am worried about this.	Estou preocupado com isso.
+I am interested in art.	Estou interessado em arte.
+I am bored with this.	Estou entediado com isso.
+She is afraid of dogs.	Ela tem medo de cachorros.
+He is good at math.	Ele é bom em matemática.
+I am bad at singing.	Eu sou ruim em cantar.
+They are ready for class.	Eles estão prontos para a aula.
+This belongs to me.	Isso pertence a mim.
+I agree with you.	Eu concordo com você.
+I disagree with him.	Eu discordo dele.
+I believe in love.	Eu acredito no amor.
+I depend on you.	Eu dependo de você.
+I care about you.	Eu me importo com você.
+I think about you daily.	Eu penso em você diariamente.
+I dream about traveling.	Eu sonho em viajar.
+I worry about money.	Eu me preocupo com dinheiro.
+I laugh at jokes.	Eu rio de piadas.
+I smile at children.	Eu sorrio para crianças.
+I look at the sky.	Eu olho para o céu.
+I listen to the radio.	Eu escuto rádio.
+I look for my keys.	Eu procuro minhas chaves.
+I wait for the bus.	Eu espero o ônibus.
+I ask for help.	Eu peço ajuda.
+I pay for dinner.	Eu pago o jantar.
+I thank you for everything.	Eu te agradeço por tudo.
+I apologize for being late.	Peço desculpas por estar atrasado.
+I'm sorry for the delay.	Desculpe pelo atraso.
+Thank you for coming.	Obrigado por vir.
+Thanks for your help.	Obrigado pela sua ajuda.
+You're welcome.	De nada.
+No problem.	Sem problema.
+My pleasure.	O prazer é meu.
+Anytime.	Quando quiser.
+Of course.	Claro.
+Sure thing.	Com certeza.
+I think you're right.	Eu acho que você está certo.
+I think you're wrong.	Eu acho que você está errado.
+I'm not sure.	Não tenho certeza.
+I have no idea.	Não faço ideia.
+I don't care.	Não me importo.
+It doesn't matter.	Não importa.
+Whatever you want.	O que você quiser.
+It's up to you.	Depende de você.
+It's your choice.	A escolha é sua.
+Do as you wish.	Faça como quiser.
+Please help me.	Por favor me ajude.
+Please wait a moment.	Por favor espere um momento.
+Please be quiet.	Por favor fique quieto.
+Please come in.	Por favor entre.
+Please sit down.	Por favor sente-se.
+Please close the door.	Por favor feche a porta.
+Please open the window.	Por favor abra a janela.
+Please turn off the light.	Por favor apague a luz.
+Please turn on the TV.	Por favor ligue a TV.
+Could you please repeat?	Você poderia por favor repetir?
+Would you mind waiting?	Você se importaria de esperar?
+Excuse me.	Com licença.
+Pardon me.	Perdão.
+I beg your pardon.	Peço perdão.
+Forgive me.	Me perdoe.
+I'm terribly sorry.	Sinto muito mesmo.
+I apologize sincerely.	Peço desculpas sinceramente.
+Congratulations!	Parabéns!
+Well done!	Muito bem!
+Good luck!	Boa sorte!
+Have fun!	Divirta-se!
+Enjoy your meal!	Bom apetite!
+Cheers!	Saúde!
+Bless you!	Saúde!
+Happy birthday!	Feliz aniversário!
+Merry Christmas!	Feliz Natal!
+Happy New Year!	Feliz Ano Novo!
+Welcome home!	Bem-vindo em casa!
+Safe travels!	Boa viagem!
+Get well soon!	Melhoras!
+Sweet dreams!	Bons sonhos!
+Sleep well!	Durma bem!
+Have a good day!	Tenha um bom dia!
+Have a nice weekend!	Tenha um bom fim de semana!
+See you later!	Até mais tarde!
+See you tomorrow!	Até amanhã!
+Talk to you later!	Falo com você depois!
+Catch you later!	Te vejo depois!
+Take it easy!	Vá com calma!
+Goodbye!	Adeus!
+Bye for now!	Tchau por agora!
+I'm on my way.	Estou a caminho.
+I'll be right back.	Já volto.
+I'll be there soon.	Estarei aí em breve.
+I'm almost there.	Estou quase lá.
+I'm running late.	Estou me atrasando.
+I'm stuck in traffic.	Estou preso no trânsito.
+I missed the bus.	Eu perdi o ônibus.
+I caught the train.	Eu peguei o trem.
+The store is closed.	A loja está fechada.
+The bank is open.	O banco está aberto.
+The restaurant is full.	O restaurante está cheio.
+The hotel is empty.	O hotel está vazio.
+The line is long.	A fila está longa.
+The wait is short.	A espera é curta.
+The price is high.	O preço está alto.
+The cost is low.	O custo está baixo.
+It's too expensive.	É muito caro.
+It's very cheap.	É muito barato.
+It's a good deal.	É um bom negócio.
+It's worth it.	Vale a pena.
+It's not worth it.	Não vale a pena.
+I can afford it.	Eu posso pagar por isso.
+I can't afford it.	Eu não posso pagar por isso.
+I'll take it.	Eu vou levar.
+I'll pass.	Eu vou passar.
+Do you accept cards?	Você aceita cartões?
+Do you take cash only?	Você aceita apenas dinheiro?
+Can I pay by card?	Posso pagar com cartão?
+Where can I pay?	Onde posso pagar?
+Is there a discount?	Tem desconto?
+Can you lower the price?	Você pode baixar o preço?
+That's my final offer.	Essa é minha oferta final.
+It's a deal!	Fechado!
+Let's shake on it.	Vamos apertar as mãos.
+I changed my mind.	Eu mudei de ideia.
+I made a mistake.	Eu cometi um erro.
+I was wrong.	Eu estava errado.
+You were right.	Você estava certo.
+I take it back.	Eu retiro o que disse.
+I didn't mean that.	Eu não quis dizer isso.
+I was just joking.	Eu estava só brincando.
+I'm being serious.	Estou sendo sério.
+I'm not joking around.	Não estou brincando.
+Trust me on this.	Confie em mim nisso.
+Believe me.	Acredite em mim.
+I swear it's true.	Eu juro que é verdade.
+I promise you.	Eu te prometo.
+I give you my word.	Dou minha palavra.
+You can count on me.	Você pode contar comigo.
+I won't let you down.	Não vou te decepcionar.
+I've got your back.	Eu te apoio.
+I'm here for you.	Estou aqui para você.
+I'll always be here.	Eu sempre estarei aqui.
+You're not alone.	Você não está sozinho.
+We're in this together.	Estamos juntos nisso.
+I understand how you feel.	Eu entendo como você se sente.
+I know what you mean.	Eu sei o que você quer dizer.
+I've been there before.	Eu já passei por isso.
+I feel the same way.	Eu me sinto da mesma forma.
+That makes sense.	Isso faz sentido.
+That's a good point.	Esse é um bom ponto.
+I never thought of that.	Eu nunca pensei nisso.
+That's interesting.	Isso é interessante.
+Tell me about it!	Pode falar!
+You're telling me!	Está me dizendo!
+I couldn't agree more.	Não poderia concordar mais.
+Exactly!	Exatamente!
+Absolutely!	Absolutamente!
+Definitely!	Definitivamente!
+For sure!	Com certeza!
+Without a doubt!	Sem dúvida!
+No doubt about it.	Sem dúvida sobre isso.
+I'm positive.	Tenho certeza.
+I'm certain.	Estou certo.
+I'm convinced.	Estou convencido.
+There's no question.	Não há dúvida.
+It's obvious.	É óbvio.
+It's clear.	Está claro.
+That's true.	Isso é verdade.
+That's false.	Isso é falso.
+I'm not convinced.	Não estou convencido.
+I have my doubts.	Tenho minhas dúvidas.
+I'm skeptical.	Estou cético.
+I don't buy it.	Eu não acredito nisso.
+That sounds fishy.	Isso parece suspeito.
+Something's not right.	Algo não está certo.
+Something's off.	Algo está estranho.
+What's going on?	O que está acontecendo?
+What happened?	O que aconteceu?
+What's the matter?	O que há de errado?
+What's wrong?	O que está errado?
+Is everything okay?	Está tudo bem?
+Are you alright?	Você está bem?
+Are you sure?	Você tem certeza?
+Are you serious?	Você está falando sério?
+Are you kidding me?	Você está brincando comigo?
+You must be joking!	Você deve estar brincando!
+No way!	De jeito nenhum!
+I can't believe it!	Não posso acreditar!
+That's unbelievable!	Isso é inacreditável!
+That's incredible!	Isso é incrível!
+That's amazing!	Isso é incrível!
+That's awesome!	Isso é demais!
+That's wonderful!	Isso é maravilhoso!
+That's fantastic!	Isso é fantástico!
+That's terrible!	Isso é terrível!
+That's horrible!	Isso é horrível!
+That's awful!	Isso é péssimo!
+That's unfortunate.	Isso é lamentável.
+What a shame!	Que pena!
+What a waste!	Que desperdício!
+What a mess!	Que bagunça!
+What a surprise!	Que surpresa!
+What a coincidence!	Que coincidência!
+How strange!	Que estranho!
+How odd!	Que esquisito!
+How curious!	Que curioso!
+How wonderful!	Que maravilhoso!
+How beautiful!	Que lindo!
+How lovely!	Que encantador!
+How nice!	Que legal!
+How sweet!	Que doce!
+How kind!	Que gentil!
+How thoughtful!	Que atencioso!
+How generous!	Que generoso!
+How brave!	Que corajoso!
+How clever!	Que esperto!
+How smart!	Que inteligente!
+How funny!	Que engraçado!
+How silly!	Que bobo!
+How stupid!	Que estúpido!
+How ridiculous!	Que ridículo!
+How embarrassing!	Que constrangedor!
+How frustrating!	Que frustrante!
+How annoying!	Que irritante!
+How boring!	Que chato!
+How exciting!	Que emocionante!
+How thrilling!	Que emocionante!
+How scary!	Que assustador!
+How dangerous!	Que perigoso!
+How risky!	Que arriscado!
+How difficult!	Que difícil!
+How easy!	Que fácil!
+How simple!	Que simples!
+How complicated!	Que complicado!
+How confusing!	Que confuso!
+The dog is barking.	O cachorro está latindo.
+The cat is sleeping.	O gato está dormindo.
+The bird is singing.	O pássaro está cantando.
+The baby is crying.	O bebê está chorando.
+The phone is ringing.	O telefone está tocando.
+The clock is ticking.	O relógio está tiquetaqueando.
+The water is boiling.	A água está fervendo.
+The ice is melting.	O gelo está derretendo.
+The sun is setting.	O sol está se pondo.
+The flowers are blooming.	As flores estão florescendo.
+The leaves are falling.	As folhas estão caindo.
+The snow is melting.	A neve está derretendo.
+My heart is racing.	Meu coração está acelerado.
+My head is spinning.	Minha cabeça está girando.
+My stomach is growling.	Meu estômago está roncando.
+My feet are hurting.	Meus pés estão doendo.
+My back is aching.	Minhas costas estão doendo.
+My throat is sore.	Minha garganta está dolorida.
+My nose is running.	Meu nariz está escorrendo.
+My eyes are burning.	Meus olhos estão ardendo.
+I have a headache.	Eu tenho dor de cabeça.
+I have a toothache.	Eu tenho dor de dente.
+I have a fever.	Eu tenho febre.
+I have a cold.	Eu estou resfriado.
+I have the flu.	Eu estou com gripe.
+I feel dizzy.	Me sinto tonto.
+I feel nauseous.	Me sinto enjoado.
+I feel weak.	Me sinto fraco.
+I feel faint.	Me sinto desmaiando.
+I need a doctor.	Eu preciso de um médico.
+I need medicine.	Eu preciso de remédio.
+Call an ambulance!	Chame uma ambulância!
+It's an emergency!	É uma emergência!
+Where's the nearest hospital?	Onde fica o hospital mais próximo?
+I'm allergic to peanuts.	Eu sou alérgico a amendoim.
+I can't breathe.	Eu não consigo respirar.
+I cut my finger.	Eu cortei meu dedo.
+I burned my hand.	Eu queimei minha mão.
+I twisted my ankle.	Eu torci meu tornozelo.
+I broke my arm.	Eu quebrei meu braço.
+The coffee is hot.	O café está quente.
+The ice cream is cold.	O sorvete está gelado.
+The soup is warm.	A sopa está morna.
+The bread is fresh.	O pão está fresco.
+The milk is sour.	O leite está azedo.
+The fruit is ripe.	A fruta está madura.
+The meat is raw.	A carne está crua.
+The eggs are cooked.	Os ovos estão cozidos.
+The cake is sweet.	O bolo está doce.
+The lemon is sour.	O limão está azedo.
+The pepper is spicy.	A pimenta está picante.
+The salt is salty.	O sal está salgado.
+I'm full.	Estou cheio.
+I'm stuffed.	Estou empanturrado.
+I'm starving.	Estou morrendo de fome.
+I could eat a horse.	Eu poderia comer um cavalo.
+I have no appetite.	Não tenho apetite.
+It looks delicious.	Parece delicioso.
+It smells wonderful.	Cheira maravilhoso.
+It tastes amazing.	Tem gosto incrível.
+This is delicious!	Isso está delicioso!
+This is disgusting!	Isso está nojento!
+I love this dish.	Eu amo este prato.
+I hate this flavor.	Eu odeio este sabor.
+Can I have more?	Posso pegar mais?
+Can I have seconds?	Posso repetir?
+Can I try some?	Posso experimentar um pouco?
+Help yourself.	Sirva-se.
+Pass the salt please.	Passe o sal por favor.
+Would you like dessert?	Você gostaria de sobremesa?
+I'm on a diet.	Estou de dieta.
+I'm trying to lose weight.	Estou tentando perder peso.
+I'm a vegetarian.	Eu sou vegetariano.
+I don't eat meat.	Eu não como carne.
+I don't drink alcohol.	Eu não bebo álcool.
+I quit smoking.	Eu parei de fumar.
+I exercise daily.	Eu me exercito diariamente.
+I go to the gym.	Eu vou à academia.
+I run every morning.	Eu corro toda manhã.
+I play sports regularly.	Eu pratico esportes regularmente.
+I need to rest.	Eu preciso descansar.
+I'm exhausted.	Estou exausto.
+I'm worn out.	Estou esgotado.
+I could use a break.	Eu poderia usar um intervalo.
+Let's take a break.	Vamos fazer um intervalo.
+I need fresh air.	Eu preciso de ar fresco.
+Let's go outside.	Vamos lá fora.
+It's stuffy in here.	Está abafado aqui dentro.
+Open a window.	Abra uma janela.
+Turn on the fan.	Ligue o ventilador.
+Turn up the heat.	Aumente o aquecedor.
+Turn down the AC.	Diminua o ar condicionado.
+It's freezing in here.	Está congelando aqui dentro.
+I'm shivering.	Estou tremendo.
+I need a blanket.	Eu preciso de um cobertor.
+I need a jacket.	Eu preciso de uma jaqueta.
+Where's my coat?	Onde está meu casaco?
+Where are my keys?	Onde estão minhas chaves?
+Where's my wallet?	Onde está minha carteira?
+Where's my phone?	Onde está meu telefone?
+I lost my passport.	Eu perdi meu passaporte.
+I can't find it.	Eu não consigo encontrar.
+It's missing.	Está faltando.
+It's gone.	Sumiu.
+Someone took it.	Alguém pegou.
+It was stolen.	Foi roubado.
+Call the police!	Chame a polícia!
+I was robbed.	Eu fui roubado.
+There's been an accident.	Houve um acidente.
+I witnessed everything.	Eu presenciei tudo.
+I saw what happened.	Eu vi o que aconteceu.
+I heard a noise.	Eu ouvi um barulho.
+I heard someone scream.	Eu ouvi alguém gritar.
+Something fell.	Algo caiu.
+Something broke.	Algo quebrou.
+The glass shattered.	O vidro estilhaçou.
+The vase is broken.	O vaso está quebrado.
+The lamp is cracked.	A lâmpada está rachada.
+The TV isn't working.	A TV não está funcionando.
+The computer froze.	O computador travou.
+The internet is down.	A internet está fora.
+The power went out.	A energia acabou.
+The lights went off.	As luzes apagaram.
+There's no signal.	Não há sinal.
+I can't connect.	Eu não consigo conectar.
+It won't turn on.	Não liga.
+It keeps crashing.	Fica travando.
+I need technical support.	Eu preciso de suporte técnico.
+Can you fix this?	Você pode consertar isso?
+How long will it take?	Quanto tempo vai levar?
+How much will it cost?	Quanto vai custar?
+Is it under warranty?	Está na garantia?
+Do you have insurance?	Você tem seguro?
+I need a receipt.	Eu preciso de um recibo.
+I need a refund.	Eu preciso de um reembolso.
+I want to return this.	Eu quero devolver isso.
+I want to exchange this.	Eu quero trocar isso.
+This is defective.	Isso está defeituoso.
+This is damaged.	Isso está danificado.
+This doesn't fit.	Isso não serve.
+It's too big.	É muito grande.
+It's too small.	É muito pequeno.
+It's too tight.	É muito apertado.
+It's too loose.	É muito largo.
+It's too long.	É muito comprido.
+It's too short.	É muito curto.
+Do you have another size?	Você tem outro tamanho?
+Do you have another color?	Você tem outra cor?
+Can I try it on?	Posso experimentar?
+Where's the fitting room?	Onde fica o provador?
+This looks good on you.	Isso fica bom em você.
+This suits you well.	Isso combina com você.
+You look great!	Você está ótimo!
+You look tired.	Você parece cansado.
+You look upset.	Você parece chateado.
+You look worried.	Você parece preocupado.
+You seem stressed.	Você parece estressado.
+You seem happy.	Você parece feliz.
+What's on your mind?	O que você está pensando?
+Penny for your thoughts?	Um tostão pelos seus pensamentos?
+What are you thinking about?	No que você está pensando?
+What's bothering you?	O que está te incomodando?
+You can tell me.	Você pode me contar.
+I'm all ears.	Sou todo ouvidos.
+I'm listening.	Estou ouvindo.
+Go ahead.	Vá em frente.
+I'm waiting.	Estou esperando.
+Take your time.	Leve seu tempo.
+No rush.	Sem pressa.
+Whenever you're ready.	Quando você estiver pronto.
+I have all day.	Eu tenho o dia todo.
+I'm in no hurry.	Não tenho pressa.
+We have plenty of time.	Temos muito tempo.
+We're running out of time.	Estamos ficando sem tempo.
+Time is running out.	O tempo está acabando.
+We need to hurry.	Precisamos nos apressar.
+We're going to be late.	Vamos nos atrasar.
+We're already late.	Já estamos atrasados.
+We missed our chance.	Nós perdemos nossa chance.
+It's too late now.	É tarde demais agora.
+There's still time.	Ainda há tempo.
+It's not too late.	Não é tarde demais.
+Better late than never.	Antes tarde do que nunca.
+Time flies.	O tempo voa.
+Where did the time go?	Onde foi o tempo?
+It feels like yesterday.	Parece que foi ontem.
+It's been ages!	Faz muito tempo!
+It's been forever!	Faz uma eternidade!
+Long time no see!	Há quanto tempo!
+I haven't seen you in years.	Não te vejo há anos.
+You haven't changed a bit.	Você não mudou nada.
+You look different.	Você está diferente.
+Did you cut your hair?	Você cortou o cabelo?
+Did you lose weight?	Você emagreceu?
+Did you gain weight?	Você engordou?
+You grew a beard!	Você deixou a barba crescer!
+You look younger.	Você parece mais jovem.
+You look older.	Você parece mais velho.
+Age is just a number.	Idade é apenas um número.
+You're only as old as you feel.	Você só é tão velho quanto se sente.
+Time heals all wounds.	O tempo cura todas as feridas.
+Practice makes perfect.	A prática leva à perfeição.
+Actions speak louder than words.	Ações falam mais alto que palavras.
+Better safe than sorry.	Melhor prevenir do que remediar.
+The early bird catches the worm.	Deus ajuda quem cedo madruga.
+Don't count your chickens before they hatch.	Não conte com o ovo no fiofó da galinha.
+Every cloud has a silver lining.	Depois da tempestade vem a bonança.
+When in Rome do as Romans.	Em Roma seja como os romanos.
+All that glitters is not gold.	Nem tudo que reluz é ouro.
+Two heads are better than one.	Duas cabeças pensam melhor que uma.
+The grass is always greener.	A grama do vizinho é sempre mais verde.
+Don't put all your eggs in one basket.	Não coloque todos os ovos na mesma cesta.
+A picture is worth a thousand words.	Uma imagem vale mais que mil palavras.
+You can't have your cake and eat it.	Não dá para ter tudo na vida.
+When life gives you lemons make lemonade.	Quando a vida der limões faça limonada.
+Rome wasn't built in a day.	Roma não foi construída em um dia.
+The pen is mightier than the sword.	A caneta é mais poderosa que a espada.
+Honesty is the best policy.	Honestidade é a melhor política.
+Knowledge is power.	Conhecimento é poder.
+Money doesn't grow on trees.	Dinheiro não nasce em árvore.
+You can't judge a book by its cover.	Não julgue um livro pela capa.
+The apple doesn't fall far from the tree.	Filho de peixe peixinho é.
+Blood is thicker than water.	Sangue é mais grosso que água.
+A friend in need is a friend indeed.	Amigo de verdade aparece na necessidade.
+Birds of a feather flock together.	Os semelhantes se atraem.
+Don't cry over spilled milk.	Não adianta chorar pelo leite derramado.
+Easy come easy go.	Fácil vem fácil vai.
+The more things change the more they stay.	Quanto mais as coisas mudam mais permanecem.
+What goes around comes around.	O que vai volta.
+You reap what you sow.	Você colhe o que planta.
+Strike while the iron is hot.	Malhe o ferro enquanto está quente.
+Make hay while the sun shines.	Faça feno enquanto o sol brilha.
+Absence makes the heart grow fonder.	A ausência faz o coração crescer mais forte.
+Out of sight out of mind.	Longe dos olhos longe do coração.
+The best things in life are free.	As melhores coisas da vida são grátis.
+There's no place like home.	Não há lugar como o lar.
+Home is where the heart is.	Lar é onde o coração está.
+A rolling stone gathers no moss.	Pedra que rola não cria musgo.
+Curiosity killed the cat.	A curiosidade matou o gato.
+The proof is in the pudding.	A prova está no pudim.
+You can lead a horse to water.	Você pode levar o cavalo à água.
+Don't bite the hand that feeds you.	Não morda a mão que te alimenta.
+Let sleeping dogs lie.	Deixe os cães que dormem deitados.
+Every dog has its day.	Todo cachorro tem seu dia.
+You can't teach an old dog new tricks.	Não se ensina truques novos a cachorro velho.
+It takes two to tango.	São necessários dois para dançar tango.
+The show must go on.	O show tem que continuar.
+Break a leg!	Boa sorte!
+That's the way the cookie crumbles.	É assim que o biscoito esfarela.
+It's a piece of cake.	É moleza.
+It's not rocket science.	Não é ciência de foguetes.
+It's raining cats and dogs.	Está chovendo canivetes.
+I'm under the weather.	Estou meio adoentado.
+I have butterflies in my stomach.	Estou com frio na barriga.
+That rings a bell.	Isso me soa familiar.
+It costs an arm and a leg.	Custa os olhos da cara.
+Once in a blue moon.	De vez em nunca.
+When pigs fly.	Quando porcos voarem.
+Speak of the devil.	Falando no diabo.
+The ball is in your court.	A bola está com você.
+Get the ball rolling.	Colocar a bola para rolar.
+Hit the nail on the head.	Acertar na mosca.
+Bite the bullet.	Enfrentar a situação difícil.
+Spill the beans.	Entregar o ouro.
+Let the cat out of the bag.	Deixar escapar o segredo.
+It's a blessing in disguise.	É uma bênção disfarçada.
+Kill two birds with one stone.	Matar dois coelhos com uma cajadada.
+The last straw.	A gota d'água.
+Add insult to injury.	Jogar sal na ferida.
+A taste of your own medicine.	Um gosto do próprio remédio.
+Go the extra mile.	Ir a milha extra.
+Cut corners.	Cortar caminho.
+Cut to the chase.	Ir direto ao ponto.
+Back to square one.	De volta à estaca zero.
+Back to the drawing board.	De volta à prancheta.
+Barking up the wrong tree.	Batendo na porta errada.
+Beat around the bush.	Enrolar.
+The elephant in the room.	O elefante na sala.
+A drop in the ocean.	Uma gota no oceano.
+On thin ice.	Em gelo fino.
+Walking on eggshells.	Pisando em ovos.
+Under the same roof.	Sob o mesmo teto.
+Over the moon.	Nas nuvens de felicidade.
+Through thick and thin.	Na alegria e na tristeza.
+At the end of the day.	No fim das contas.
+In the nick of time.	Na hora H.
+Against all odds.	Contra todas as probabilidades.
+By the skin of my teeth.	Por um triz.
+Out of the blue.	Do nada.
+In a nutshell.	Em resumo.
+For the time being.	Por enquanto.
+Sooner or later.	Mais cedo ou mais tarde.
+Now and then.	De vez em quando.
+Here and there.	Aqui e ali.
+High and low.	Por todos os lugares.
+Left and right.	Para todo lado.
+Up and down.	Para cima e para baixo.
+In and out.	Para dentro e para fora.
+Back and forth.	Para frente e para trás.
+Give and take.	Dar e receber.
+Live and learn.	Viver e aprender.
+Trial and error.	Tentativa e erro.
+Pros and cons.	Prós e contras.
+Odds and ends.	Miudezas.
+Bits and pieces.	Pedaços e partes.
+All or nothing.	Tudo ou nada.
+Hit or miss.	Acertar ou errar.
+Take it or leave it.	Pegar ou largar.
+Love it or hate it.	Ame ou odeie.
+Like it or not.	Goste ou não.
+Believe it or not.	Acredite ou não.
+Ready or not here I come.	Pronto ou não lá vou eu.
+Come rain or shine.	Faça chuva ou faça sol.
+For better or worse.	Para o melhor ou pior.
+More or less.	Mais ou menos.
+Sooner rather than later.	Mais cedo do que tarde.
+Easier said than done.	Mais fácil falar do que fazer.
+Seeing is believing.	Ver para crer.
+Time will tell.	O tempo dirá.
+Only time will tell.	Só o tempo dirá.
+We'll see about that.	Vamos ver isso.
+Let's wait and see.	Vamos esperar para ver.
+I'll think about it.	Vou pensar sobre isso.
+Let me sleep on it.	Deixe-me dormir sobre isso.
+I need to consider it.	Preciso considerar isso.
+Give me a moment.	Me dê um momento.
+Hold that thought.	Segure esse pensamento.
+Where were we?	Onde estávamos?
+What were we talking about?	Sobre o que estávamos falando?
+I lost my train of thought.	Perdi minha linha de raciocínio.
+It slipped my mind.	Escapou da minha mente.
+My mind went blank.	Minha mente deu um branco.
+I can't remember.	Não consigo me lembrar.
+It's on the tip of my tongue.	Está na ponta da língua.
+I have a bad memory.	Tenho memória fraca.
+I have a good memory.	Tenho boa memória.
+That brings back memories.	Isso traz de volta memórias.
+Those were the days.	Aqueles eram os dias.
+I miss the old days.	Sinto falta dos velhos tempos.
+Things have changed.	As coisas mudaram.
+Times are changing.	Os tempos estão mudando.
+Change is inevitable.	Mudança é inevitável.
+Nothing lasts forever.	Nada dura para sempre.
+All good things must end.	Todas as coisas boas devem terminar.
+This too shall pass.	Isso também passará.
+Tomorrow is another day.	Amanhã é outro dia.
+Today is the first day of your life.	Hoje é o primeiro dia da sua vida.
+Every moment is a fresh beginning.	Cada momento é um novo começo.
